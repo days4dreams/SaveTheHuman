@@ -1,0 +1,14 @@
+A WPF Application using XAML and C#.
+
+Can you Save The Human? Drag the ‘i’ indicator to the safety of the
+black square before an alien hits.
+
+Made up of a simple XAML grid container, which holds the gameArea canvas, UI controls and C# click and tick event handlers. Four methods StartGame(), AddEnemy(), AnimateEnemy(), and EndTheGame(). 
+
+Canvas contains various UI controls (buttons, progress bar, text block, ellipse) 
+
+Built using Visual Studio, helping me get comfortable with; 
+Designer window 
+Properties window
+Templates
+Document Outline
